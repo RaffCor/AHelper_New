@@ -1,5 +1,7 @@
 {
   "status": "enabled",
   "reason_off": "",
-  "url": "http://martin-rojo.myjino.ru/ahelper"
+  "url": "http://martin-rojo.myjino.ru/ahelper",
+  "MAX_PLAYERS": 300,
+  "delay": 10
 }
