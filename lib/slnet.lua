@@ -24,8 +24,8 @@ SLNET_CONFIRMATION_PCK = from_max - 3
 SLNET_CHECKING_PCK = from_max - 4
 SLNET_CONNECT_ERR_PCK = from_max - 5
 
-local network = require("slnet.init") -- init SL:NET
-local bitstream = require("slnet.bitstream") -- SL:NET BitStream
+local network = require("snet.init") -- init SL:NET
+local bitstream = require("snet.bitstream") -- SL:NET BitStream
 
 slnet.client = network.client -- create client handle
 slnet.server = network.server -- create server handle
