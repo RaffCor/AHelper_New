@@ -1,8 +1,8 @@
 {
-  "latest_number": 1,
+  "latest_number": 2,
   "latest": "3.0",
-  "latest_date": "25.03.2021",
-  "unsupported_number": 1,
+  "latest_date": "18.04.2021",
+  "unsupported_number": 2,
   "unsupported_version": "3.0",
-  "latest_description": "Проверка...\nобновления\nтест\nРаз\n2\nThree"
+  "latest_description": "Проверка...\nобновления\nтест\nРаз\n2\nThree11111"
 }
