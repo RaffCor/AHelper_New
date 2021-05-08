@@ -1,8 +1,8 @@
 {
-  "latest_number": 3,
-  "latest": "3.0.t2",
+  "latest_number": 4,
+  "latest": "3.0.t3",
   "latest_date": "08.05.2021",
   "unsupported_number": 1,
   "unsupported_version": "3.0",
-  "latest_description": "Добавлен режим отладки (по-умолчанию включен, отключить: /debug)"
+  "latest_description": "Возвращена команда /rec\nИсправлен авто ответ при взятии репорта"
 }
