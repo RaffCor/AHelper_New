@@ -1,8 +1,8 @@
 {
-  "latest_number": 6,
+  "latest_number": 7,
   "latest": "3.0.t3.1",
   "latest_date": "11.05.2021",
   "unsupported_number": 1,
   "unsupported_version": "3.0",
-  "latest_description": "Изменены ID текстдравов в связи с выходом обновления 0.6"
+  "latest_description": "Изменены ID текстдравов и диалогов в связи с выходом обновления 0.6"
 }
