@@ -1,8 +1,8 @@
 {
-  "latest_number": 11,
+  "latest_number": 12,
   "latest": "3.0.t7",
-  "latest_date": "12.06.2021",
-  "unsupported_number": 10,
+  "latest_date": "14.06.2021",
+  "unsupported_number": 12,
   "unsupported_version": "3.0",
-  "latest_description": "Добавлена блокировка авто ответа на репорт, если в тексте содержится комбинация букв или слова, за которые банит система (список будет дополняться)\nИсправлены некоторые краши"
+  "latest_description": "Временно вырезан запрос оффлайн наказаний"
 }
