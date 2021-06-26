@@ -13,5 +13,7 @@
   "re_exit": 172,
   "re_next": 184,
   "re_upd": 185,
-  "re_back": 165
+  "re_back": 165,
+  "server_ip": "176.119.157.232",
+  "server_port": 7777
 }
