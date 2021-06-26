@@ -3,5 +3,15 @@
   "reason_off": "",
   "url": "http://martin-rojo.myjino.ru/ahelper",
   "MAX_PLAYERS": 300,
-  "delay": 60
+  "delay": 60,
+  "re_stat": 166,
+  "re_ban": 167,
+  "re_cban": 168,
+  "re_slap": 169,
+  "re_spawn": 170,
+  "re_get": 171,
+  "re_exit": 172,
+  "re_next": 184,
+  "re_upd": 185,
+  "re_back": 165
 }
