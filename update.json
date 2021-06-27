@@ -1,8 +1,8 @@
 {
-  "latest_number": 15,
+  "latest_number": 16,
   "latest": "3.0.t9",
   "latest_date": "27.06.2021",
   "unsupported_number": 14,
   "unsupported_version": "3.0",
-  "latest_description": "Добавлена возможность изменить стиль оповещение о новом сообщении в /chat\n/amenu > Настройки > Основные настройки"
+  "latest_description": "Исправлена команда /fcheat"
 }
