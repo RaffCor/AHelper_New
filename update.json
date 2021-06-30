@@ -1,8 +1,8 @@
 {
-  "latest_number": 16,
+  "latest_number": 17,
   "latest": "3.0.t9",
-  "latest_date": "27.06.2021",
-  "unsupported_number": 14,
+  "latest_date": "30.06.2021",
+  "unsupported_number": 17,
   "unsupported_version": "3.0",
-  "latest_description": "Исправлена команда /fcheat"
+  "latest_description": "Небольшая оптимизация сервера"
 }
