@@ -16,5 +16,5 @@
   "re_back": 165,
   "server_ip": "176.119.157.232",
   "server_port": 7777,
-  "packet_delay": 10
+  "packet_delay": 15
 }
