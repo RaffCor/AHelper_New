@@ -1,8 +1,8 @@
 {
-  "latest_number": 19,
+  "latest_number": 20,
   "latest": "3.0-RC1",
   "latest_date": "02.07.2021",
   "unsupported_number": 17,
   "unsupported_version": "3.0",
-  "latest_description": "Исправлен авто-ввод админ-пароля\nВозвращено меню мероприятий (надо тестировать)"
+  "latest_description": "Небольшой фикс чата (/chat)"
 }
