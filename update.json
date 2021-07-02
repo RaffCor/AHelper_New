@@ -1,8 +1,8 @@
 {
-  "latest_number": 18,
-  "latest": "3.0.t10",
-  "latest_date": "01.07.2021",
+  "latest_number": 19,
+  "latest": "3.0-RC1",
+  "latest_date": "02.07.2021",
   "unsupported_number": 17,
   "unsupported_version": "3.0",
-  "latest_description": "Добавлена панель старшей администрации"
+  "latest_description": "Исправлен авто-ввод админ-пароля\nВозвращено меню мероприятий (надо тестировать)"
 }
