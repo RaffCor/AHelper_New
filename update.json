@@ -1,8 +1,8 @@
 {
-  "latest_number": 20,
+  "latest_number": 21,
   "latest": "3.0-RC1",
-  "latest_date": "02.07.2021",
+  "latest_date": "03.07.2021",
   "unsupported_number": 17,
   "unsupported_version": "3.0",
-  "latest_description": "Небольшой фикс чата (/chat)"
+  "latest_description": "Отправка сообщения в /chat теперь работает на Enter"
 }
