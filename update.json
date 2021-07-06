@@ -1,8 +1,8 @@
 {
-  "latest_number": 22,
+  "latest_number": 23,
   "latest": "3.0",
-  "latest_date": "05.07.2021",
+  "latest_date": "06.07.2021",
   "unsupported_number": 22,
   "unsupported_version": "3.0",
-  "latest_description": "Релиз"
+  "latest_description": "Исправлены команды /mpmenu и /mp_win"
 }
