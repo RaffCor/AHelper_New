@@ -1,8 +1,8 @@
 {
-  "latest_number": 25,
+  "latest_number": 26,
   "latest": "3.1",
-  "latest_date": "10.07.2021",
+  "latest_date": "17.07.2021",
   "unsupported_number": 22,
   "unsupported_version": "3.0",
-  "latest_description": "Исправлен вылет скрипта при срабатывании античита на аим"
+  "latest_description": "Исправлена команда /capto\nУдалена команда /captk"
 }
