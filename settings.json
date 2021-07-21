@@ -18,7 +18,7 @@
   "server_port": 7777,
   "packet_delay": 15,
   "vote": "enabled",
-  "vote_title": "title",
+  "vote_title": "Команда /p и прайм-чат",
   "item1": "text",
   "item2": "text",
   "item3": "text",
