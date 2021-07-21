@@ -1,8 +1,8 @@
 {
-  "latest_number": 27,
+  "latest_number": 28,
   "latest": "3.1",
-  "latest_date": "21.07.2021",
+  "latest_date": "22.07.2021",
   "unsupported_number": 27,
   "unsupported_version": "3.0",
-  "latest_description": "Добавлена система опросов"
+  "latest_description": "Добавлена команда /pr - прайм-чат"
 }
