@@ -1,8 +1,8 @@
 {
-  "latest_number": 29,
+  "latest_number": 30,
   "latest": "3.1",
-  "latest_date": "28.07.2021",
-  "unsupported_number": 27,
+  "latest_date": "02.08.2021",
+  "unsupported_number": 30,
   "unsupported_version": "3.0",
-  "latest_description": "Убраны проверки на доступ к бану\nВозможно исправлен краш при выдаче наказаний"
+  "latest_description": "."
 }
