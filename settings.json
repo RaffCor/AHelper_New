@@ -24,5 +24,10 @@
   "item3": "text",
   "item4": "text",
   "item5": "text",
-  "unix_end": 1626901200
+  "unix_end": 1626901200,
+  "dialog_ban": 117,
+  "dialog_jail": 124,
+  "dialog_mute": 122,
+  "dialog_unjail": 121,
+  "dialog_cban": 120
 }
