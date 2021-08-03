@@ -29,5 +29,7 @@
   "dialog_jail": 124,
   "dialog_mute": 122,
   "dialog_unjail": 121,
-  "dialog_cban": 120
+  "dialog_cban": 120,
+  "report": 3,
+  "pm": 6
 }
