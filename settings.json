@@ -31,5 +31,6 @@
   "dialog_unjail": 121,
   "dialog_cban": 120,
   "report": 3,
-  "pm": 6
+  "pm": 6,
+  "rfl_delay": 30
 }
