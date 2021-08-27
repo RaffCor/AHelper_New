@@ -32,6 +32,6 @@
   "dialog_cban": 120,
   "report": 3,
   "pm": 6,
-  "rfl_delay": 30,
+  "rfl_delay": 120,
   "MAX_OBJECTS": 30
 }
