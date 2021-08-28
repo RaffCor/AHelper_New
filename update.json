@@ -1,8 +1,8 @@
 {
-  "latest_number": 38,
-  "latest": "3.2",
-  "latest_date": "27.08.2021",
+  "latest_number": 39,
+  "latest": "3.2t1",
+  "latest_date": "28.08.2021",
   "unsupported_number": 38,
   "unsupported_version": "3.1",
-  "latest_description": ""
+  "latest_description": "[ТЕСТОВАЯ ВЕРСИЯ] Тест системы маппинга для админов.\nВ шестой админ-инте должно играть радио"
 }
