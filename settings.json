@@ -17,7 +17,7 @@
   "server_ip": "176.119.157.2",
   "server_port": 7777,
   "packet_delay": 15,
-  "vote": "enabled",
+  "vote": "disabled",
   "vote_title": "Снимаем Разера с ЧС проекта",
   "item1": "Да",
   "item2": "Нет",
