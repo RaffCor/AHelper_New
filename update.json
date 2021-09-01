@@ -1,8 +1,8 @@
 {
-  "latest_number": 42,
+  "latest_number": 43,
   "latest": "3.2t2",
   "latest_date": "01.09.2021",
-  "unsupported_number": 42,
+  "unsupported_number": 43,
   "unsupported_version": "3.2t1",
   "latest_description": "."
 }
