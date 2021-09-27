@@ -31,6 +31,7 @@
   "dialog_unjail": 121,
   "dialog_cban": 120,
   "report": 3,
+  "report_close": 5,
   "pm": 6,
   "rfl_delay": 120,
   "MAX_OBJECTS": 30
