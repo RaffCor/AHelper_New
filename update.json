@@ -1,8 +1,8 @@
 {
-  "latest_number": 50,
-  "latest": "3.3",
-  "latest_date": "27.09.2021",
+  "latest_number": 51,
+  "latest": "3.3#1",
+  "latest_date": "28.09.2021",
   "unsupported_number": 50,
-  "unsupported_version": "3.2t2",
-  "latest_description": "."
+  "unsupported_version": "3.3",
+  "latest_description": "Исправлено неправильное отображение онлайна в новом TAB\nИсправлен краш скрипта при сохранении быстрых наказаний\nВозможно исправлен 'бесконечный' автоответ"
 }
