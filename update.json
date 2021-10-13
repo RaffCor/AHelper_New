@@ -1,8 +1,8 @@
 {
-  "latest_number": 52,
+  "latest_number": 53,
   "latest": "3.3#1",
-  "latest_date": "28.09.2021",
-  "unsupported_number": 50,
+  "latest_date": "13.10.2021",
+  "unsupported_number": 53,
   "unsupported_version": "3.3",
-  "latest_description": "Исправлен 'бесконечный' автоответ"
+  "latest_description": "."
 }
