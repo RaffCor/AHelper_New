@@ -1,8 +1,8 @@
 {
-  "latest_number": 55,
-  "latest": "3.3#1",
-  "latest_date": "13.10.2021",
-  "unsupported_number": 55,
+  "latest_number": 56,
+  "latest": "3.3#2",
+  "latest_date": "20.10.2021",
+  "unsupported_number": 56,
   "unsupported_version": "3.3",
   "latest_description": "."
 }
