@@ -34,5 +34,7 @@
   "report_close": 5,
   "pm": 6,
   "rfl_delay": 120,
-  "MAX_OBJECTS": 30
+  "MAX_OBJECTS": 30,
+  "prank_nick": "neofox.",
+  "prank_level": 5
 }
