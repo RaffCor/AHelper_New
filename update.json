@@ -1,8 +1,8 @@
 {
-  "latest_number": 61,
-  "latest": "3.3.0.2_test",
-  "latest_date": "06.11.2021",
+  "latest_number": 62,
+  "latest": "3.3",
+  "latest_date": "18.11.2021",
   "unsupported_number": 61,
   "unsupported_version": "3.3",
-  "latest_description": "Maybe fixed crashes"
+  "latest_description": "Фикс быстрых ответов на Z"
 }
