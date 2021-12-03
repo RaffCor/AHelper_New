@@ -1,8 +1,8 @@
 {
-  "latest_number": 65,
+  "latest_number": 66,
   "latest": "3.3",
   "latest_date": "03.12.2021",
   "unsupported_number": 61,
   "unsupported_version": "3.3",
-  "latest_description": "Исправлено неправильное отображение онлайна в новом ТАБе на 2 и 3 серверах"
+  "latest_description": "Исправлены некоторые баги"
 }
