@@ -1,8 +1,8 @@
 {
-  "latest_number": 66,
-  "latest": "3.3",
-  "latest_date": "03.12.2021",
+  "latest_number": 67,
+  "latest": "3.3.1",
+  "latest_date": "06.01.2022",
   "unsupported_number": 61,
   "unsupported_version": "3.3",
-  "latest_description": "Исправлены некоторые баги"
+  "latest_description": "Фикс автологина и команд при входе"
 }
