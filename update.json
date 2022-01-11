@@ -1,8 +1,8 @@
 {
-  "latest_number": 68,
-  "latest": "3.3.1",
-  "latest_date": "07.01.2022",
+  "latest_number": 69,
+  "latest": "3.3.2",
+  "latest_date": "11.01.2022",
   "unsupported_number": 68,
   "unsupported_version": "3.3",
-  "latest_description": "Фикс автологина и команд при входе"
+  "latest_description": "Добавлены /unacm и /uncacm в /requests"
 }
