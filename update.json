@@ -1,8 +1,8 @@
 {
-  "latest_number": 74,
+  "latest_number": 75,
   "latest": "3.3.3 [FINAL]",
-  "latest_date": "14.02.2022",
+  "latest_date": "25.02.2022",
   "unsupported_number": 68,
   "unsupported_version": "3.3",
-  "latest_description": "Окончательная версия, разработка прекращена."
+  "latest_description": "Префикс FUN добавлен в исключения"
 }
