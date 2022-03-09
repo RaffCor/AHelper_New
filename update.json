@@ -1,8 +1,8 @@
 {
-  "latest_number": 76,
+  "latest_number": 77,
   "latest": "3.3.3 [FINAL]",
-  "latest_date": "25.02.2022",
+  "latest_date": "09.03.2022",
   "unsupported_number": 68,
   "unsupported_version": "3.3",
-  "latest_description": "Исправлена команда /forum для первого сервера"
+  "latest_description": "Исправлена команда /forum для первого сервера и кодировка"
 }
