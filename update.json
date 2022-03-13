@@ -1,8 +1,8 @@
 {
-  "latest_number": 79,
+  "latest_number": 80,
   "latest": "3.3.3 [FINAL]",
   "latest_date": "09.03.2022",
   "unsupported_number": 78,
   "unsupported_version": "3.3",
-  "latest_description": "Исправлен краш скрипта из-за трассеров"
+  "latest_description": "Исправлен автоответ при взятии жалобы"
 }
