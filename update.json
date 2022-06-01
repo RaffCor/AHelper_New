@@ -1,8 +1,8 @@
 {
-  "latest_number": 81,
+  "latest_number": 82,
   "latest": "3.3.3",
-  "latest_date": "05.05.2022",
+  "latest_date": "01.06.2022",
   "unsupported_number": 78,
   "unsupported_version": "3.3",
-  "latest_description": "Исправлена команда /forum для 2 и 3 серверов\nУдалена быстрая выдача мута за упоминание родных"
+  "latest_description": "Исправлены некоторые баги"
 }
