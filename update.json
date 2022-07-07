@@ -1,8 +1,8 @@
 {
-  "latest_number": 82,
-  "latest": "3.3.3",
-  "latest_date": "01.06.2022",
+  "latest_number": 84,
+  "latest": "3.3.4",
+  "latest_date": "07.07.2022",
   "unsupported_number": 78,
   "unsupported_version": "3.3",
-  "latest_description": "Исправлены некоторые баги"
+  "latest_description": "Добавлен префикс 'MM' в TAB и в исключения для ников игроков"
 }
