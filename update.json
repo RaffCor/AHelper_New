@@ -1,8 +1,8 @@
 {
-  "latest_number": 84,
-  "latest": "3.3.4",
-  "latest_date": "07.07.2022",
+  "latest_number": 85,
+  "latest": "3.3.5",
+  "latest_date": "08.07.2022",
   "unsupported_number": 78,
   "unsupported_version": "3.3",
-  "latest_description": "Добавлен префикс 'MM' в TAB и в исключения для ников игроков"
+  "latest_description": "Исправлен баг с запросом оффлайн наказаний"
 }
