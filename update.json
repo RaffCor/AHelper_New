@@ -1,8 +1,8 @@
 {
-  "latest_number": 85,
-  "latest": "3.3.5",
-  "latest_date": "08.07.2022",
+  "latest_number": 86,
+  "latest": "3.3.5_RIP",
+  "latest_date": "14.10.2022",
   "unsupported_number": 78,
   "unsupported_version": "3.3",
-  "latest_description": "Исправлен баг с запросом оффлайн наказаний"
+  "latest_description": "История АХелпера подошла к концу :(\nРабота скрипта будет прекращена 15.10.2022"
 }
